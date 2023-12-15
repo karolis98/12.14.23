@@ -8,3 +8,30 @@
     font-weight: bold;
     
 }
+.content{
+    text-align: center;
+    background-color: rgb(109, 109, 199);
+    height: 667px;
+    color: white;
+    display: grid;
+    align-content: center;
+
+}
+
+.p{
+    max-width: 263px;
+    margin-left: 50px;
+    margin-top: 0;
+}
+
+.explore{
+    max-width: 123px;
+    height: 30px;
+    margin-left: 116px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    box-shadow: 1px 1px 1px 1px black ;
+    display: grid;
+    align-items: center;
+}
