@@ -1,0 +1,10 @@
+.head{
+    display: flex;
+    gap: 194px;
+    justify-content: space-around;
+    align-items: center;
+}
+.left{
+    font-weight: bold;
+    
+}
