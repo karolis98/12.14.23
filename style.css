@@ -35,6 +35,16 @@
     display: grid;
     align-items: center;
 }
-h2{text-align: center;
-margin-top: 50px;}
+h2{
+    text-align: center;
+margin-top: 50px;
+}
+.m{
+   width: 360px; 
+   margin-left: 15px;
+}
+.text{
+    text-decoration-style: solid;
+    font-size: 20px;
+}
 
